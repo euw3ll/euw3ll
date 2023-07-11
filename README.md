@@ -13,7 +13,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{euw3ll}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-github-username&color=dc143c" /></p> 
   ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
 <br>
 </div>
