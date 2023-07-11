@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-<p align="center"><img height="70px" align="center" src="https://komarev.com/ghpvc/?username=euw3ll&color=ff0000&label=Visitas" /></p> 
+<p align="center"><img height="40px" align="center" src="https://komarev.com/ghpvc/?username=euw3ll&color=ff0000&label=Visitas" /></p> 
 <br>
 </div>
 
