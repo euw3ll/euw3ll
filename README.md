@@ -12,8 +12,7 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=euw3ll&color=ff0000&label=Visitas" /></p> 
+<p align="center"><img height="70px" align="center" src="https://komarev.com/ghpvc/?username=euw3ll&color=ff0000&label=Visitas" /></p> 
 <br>
 </div>
 
