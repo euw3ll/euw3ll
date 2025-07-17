@@ -30,4 +30,4 @@
 
 <br><br><br><br>
 
-![snake gif](https://github.com/euw3ll/euw3ll/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/euw3ll/euw3ll/output/snake.svg" alt="Snake animation" />
