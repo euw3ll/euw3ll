@@ -19,7 +19,7 @@
 
 ### 📈 GitHub Stats
 
-![Well's GitHub stats](https://github-readme-stats.vercel.app/api?username=euw3ll&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=euw3ll&show_private=true&theme=radical)
 
 ---
 
