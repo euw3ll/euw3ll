@@ -26,4 +26,4 @@
 ### 📫 Contato
 
 - ✉️ wendrell.antoneli@email.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/wendrell-antoneli-27592a2b2)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/wendrell-antoneli-27592a2b2)  
