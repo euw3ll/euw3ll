@@ -1,23 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+## 👋 Oi! Eu sou o Well
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=euw3ll&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ff0000&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euw3ll&layout=compact&hide_border=true&title_color=ff0000&text_color=ff0000&bg_color=0d1117" />
-</div>
+🎓 Técnico em Informática no Colégio Bento Quirino (2019–2021)<br>
+📚 Estudante de ADS na Universidade São Francisco (2024–2026)<br>
+🚀 Desenvolvendo infoprodutos, SaaS e soluções low-code
 
-<div align="center"> 
-<a href="https://instagram.com/euw3ll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:wendrell.antoneli@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "discord.gg/euw3ll"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
+---
 
-<div align="center">
-<p align="center"><img height="40px" align="center" src="https://komarev.com/ghpvc/?username=euw3ll&color=ff0000&label=Visitas" /></p> 
-<br>
-</div>
+### 🧰 Tecnologias que uso
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Low Code](https://img.shields.io/badge/Low--Code-blueviolet?style=flat)
 
+---
 
+### 📈 GitHub Stats
 
+![Well's GitHub stats](https://github-readme-stats.vercel.app/api?username=euw3ll&show_icons=true&theme=radical)
 
+---
+
+### 📫 Contato
+
+- ✉️ wendrell.antoneli@email.com  
+- 🔗 [LinkedIn](www.linkedin.com/in/wendrell-antoneli-27592a2b2)  
