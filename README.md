@@ -28,6 +28,6 @@
 - ✉️ wendrell.antoneli@email.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wendrell-antoneli-27592a2b2)  
 
-<br><br><br><br>
+<br><br>
 
 <img src="https://raw.githubusercontent.com/euw3ll/euw3ll/output/snake.svg" alt="Snake animation" />
