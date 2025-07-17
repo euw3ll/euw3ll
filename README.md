@@ -27,3 +27,7 @@
 
 - ✉️ wendrell.antoneli@email.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wendrell-antoneli-27592a2b2)  
+
+<br><br><br><br>
+
+![snake gif](https://github.com/euw3ll/euw3ll/blob/output/github-contribution-grid-snake.svg)
