@@ -1,4 +1,4 @@
-## 😉 Eu sou o Well
+## 😉 Opa, eu sou o Well!
 
 🎓 Técnico em Informática no Colégio Bento Quirino (2019–2021)<br>
 📚 Estudante de ADS na Universidade São Francisco (2024–2026)<br>
