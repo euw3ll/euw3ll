@@ -17,6 +17,7 @@ jobs:
       - name: Gerar cartão de atividade
         env:
           PROFILE_USERNAME: ${{ github.repository_owner }}
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
         run: node .github/scripts/generate-profile-stats.mjs
 
       - name: Salvar cartão atualizado
