@@ -97,7 +97,7 @@ const svg = [
   metric(190, last30, "nos últimos 30 dias"),
   metric(340, activeDays, "dias ativos"),
   metric(450, longestStreak, "maior sequência"),
-  metric(575, user.public_repos, "repos públicos"),
+  metric(575, Math.max(...days.map(day => day.count)), "recorde diário"),
   "<text x=\"30\" y=\"158\" fill=\"#f8f8f2\" font-size=\"12\" font-weight=\"600\">Ritmo de contribuições</text>",
   heatmap,
   "<text x=\"570\" y=\"241\" fill=\"#6e5a7e\" font-size=\"10\">menos</text>",
