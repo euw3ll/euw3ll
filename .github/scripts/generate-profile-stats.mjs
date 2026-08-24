@@ -61,20 +61,23 @@ for (const day of days) {
 }
 
 const formatter = new Intl.NumberFormat("pt-BR");
-const colors = ["#2a2039", "#4b1f53", "#7d2468", "#c72c7d", "#fe428e"];
-const recentDays = days.slice(-364);
-const heatmap = recentDays.map((day, index) => {
-  const column = Math.floor(index / 7);
-  const row = index % 7;
-  const x = 30 + column * 10;
-  const y = 174 + row * 10;
+const languages = [
+  { name: "Python", color: "#3572A5" },
+  { name: "JavaScript", color: "#f1e05a" },
+  { name: "HTML", color: "#e34c26" },
+  { name: "CSS", color: "#563d7c" }
+];
+
+const languageCards = languages.map((language, index) => {
+  const x = 30 + index * 160;
   return [
-    "<rect x=\"" + x + "\" y=\"" + y + "\" width=\"7\" height=\"7\" rx=\"1.5\" fill=\"" + colors[day.level] + "\">",
-    "<title>" + day.date + ": " + day.count + " contribuições</title>",
-    "</rect>"
+    "<g>",
+    "<rect x=\"" + x + "\" y=\"174\" width=\"145\" height=\"54\" rx=\"8\" fill=\"" + language.color + "\" fill-opacity=\"0.14\" stroke=\"" + language.color + "\" stroke-opacity=\"0.55\"/>",
+    "<circle cx=\"" + (x + 22) + "\" cy=\"201\" r=\"7\" fill=\"" + language.color + "\"/>",
+    "<text x=\"" + (x + 38) + "\" y=\"206\" fill=\"#f8f8f2\" font-size=\"14\" font-weight=\"700\">" + language.name + "</text>",
+    "</g>"
   ].join("");
 }).join("");
-
 const updatedAt = new Intl.DateTimeFormat("pt-BR", {
   timeZone: "America/Sao_Paulo",
   day: "2-digit",
@@ -98,15 +101,8 @@ const svg = [
   metric(340, activeDays, "dias ativos"),
   metric(450, longestStreak, "maior sequência"),
   metric(575, Math.max(...days.map(day => day.count)), "recorde diário"),
-  "<text x=\"30\" y=\"158\" fill=\"#f8f8f2\" font-size=\"12\" font-weight=\"600\">Ritmo de contribuições</text>",
-  heatmap,
-  "<text x=\"570\" y=\"241\" fill=\"#6e5a7e\" font-size=\"10\">menos</text>",
-  "<rect x=\"608\" y=\"233\" width=\"7\" height=\"7\" rx=\"1.5\" fill=\"#2a2039\"/>",
-  "<rect x=\"619\" y=\"233\" width=\"7\" height=\"7\" rx=\"1.5\" fill=\"#4b1f53\"/>",
-  "<rect x=\"630\" y=\"233\" width=\"7\" height=\"7\" rx=\"1.5\" fill=\"#7d2468\"/>",
-  "<rect x=\"641\" y=\"233\" width=\"7\" height=\"7\" rx=\"1.5\" fill=\"#c72c7d\"/>",
-  "<rect x=\"652\" y=\"233\" width=\"7\" height=\"7\" rx=\"1.5\" fill=\"#fe428e\"/>",
-  "<text x=\"664\" y=\"241\" fill=\"#6e5a7e\" font-size=\"10\">mais</text>",
+  "<text x=\"30\" y=\"158\" fill=\"#f8f8f2\" font-size=\"12\" font-weight=\"600\">Linguagens mais usadas</text>",
+  languageCards,
   "<text x=\"30\" y=\"265\" fill=\"#6e5a7e\" font-size=\"10\">Atualizado em " + updatedAt + " • fonte: GitHub</text>",
   "</g>",
   "</svg>"
