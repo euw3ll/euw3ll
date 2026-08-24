@@ -97,11 +97,11 @@ if (totalLanguageBytes === 0) {
 }
 
 const languageColors = {
-  "TypeScript": "#3178c6",
-  "Python": "#3572A5",
-  "JavaScript": "#f1e05a",
+  "TypeScript": "#2563EB",
+  "Python": "#38BDF8",
+  "JavaScript": "#FACC15",
   "HTML": "#e34c26",
-  "CSS": "#563d7c",
+  "CSS": "#A855F7",
   "Vue": "#41b883",
   "Shell": "#89e051",
   "Dockerfile": "#384d54",
