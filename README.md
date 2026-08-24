@@ -27,6 +27,4 @@
 - ✉️ wendrell.antoneli@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/wendrell-antoneli)  
 
-<br><br>
-
 <img src="https://raw.githubusercontent.com/euw3ll/euw3ll/output/snake.svg" alt="Snake animation" />
