@@ -1,5 +1,4 @@
 ## 😉 Opa, eu sou o Well!
-
 🎓 Técnico em Informática no Colégio Bento Quirino (2019–2021)<br>
 📚 Formado em ADS na Universidade São Francisco (2024–2026)<br>
 🚀 Desenvolvendo infoprodutos, SaaS e soluções low-code
@@ -19,7 +18,7 @@
 
 ### 📈 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=euw3ll&show_private=true&theme=radical)
+![GitHub Stats](./profile/stats.svg)
 
 ---
 
